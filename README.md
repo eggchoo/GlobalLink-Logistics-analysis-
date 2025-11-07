@@ -28,7 +28,8 @@
 ---
 
 ## **Executive Summary**
-The shipment performance dashboard provides an overview of _**operational efficiency**_, _**revenue generation**_, and _**delivery performance**_ across multiple product categories and regions. With total **revenue of $2M** and **5,000 shipments**, the company maintains steady growth, though variations in active shipments, returns, and delivery times across regions suggest room for improvement in **regional delivery efficiency**, **product diversification**, and **return rate reduction**.  
+- The shipment performance dashboard provides an overview of _**operational efficiency**_, _**revenue generation**_, and _**delivery performance**_ across multiple product categories and regions.
+- With total **revenue of $2M** and **5,000 shipments**, the company _**maintains steady growth**_, though variations in active shipments, returns, and delivery times across regions suggest _**room for improvement in regional delivery efficiency**_, _**product diversification**_, and _**return rate reduction**_.  
 
 ![Power BI Dashboard](https://github.com/eggchoo/Logistics-project/blob/main/bi_overview.png?raw=true) 
 
